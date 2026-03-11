@@ -8,3 +8,6 @@
 | 10-03-2026 | LeetCode | Valid Anagram | Easy |
 | 10-03-2026 | LeetCode | Replace Elements With Greatest Element On Right Side | Easy |
 | 10-03-2026 | LeetCode | Is Subsequence| Easy |
+| 11-03-2026 | LeetCode | Append Characters to String to Make Subsequence| Easy |
+| 11-03-2026 | LeetCode | Length Of Last Word| Easy |
+| 11-03-2026 | LeetCode | Max Consecutive Ones| Easy |
