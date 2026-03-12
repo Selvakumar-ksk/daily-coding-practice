@@ -11,3 +11,4 @@
 | 11-03-2026 | LeetCode | Append Characters to String to Make Subsequence| Easy |
 | 11-03-2026 | LeetCode | Length Of Last Word| Easy |
 | 11-03-2026 | LeetCode | Max Consecutive Ones| Easy |
+| 12-03-2026 | LeetCode | Spiral Matrix II| Easy |
