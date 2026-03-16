@@ -15,3 +15,4 @@
 | 13-03-2026 | LeetCode | Group Anagrams| Medium |
 | 14-03-2026 | LeetCode | Count and Say| Medium |
 | 15-03-2026 | LeetCode | Number of Senior Citizens| Easy |
+| 16-03-2026 | LeetCode | Longest Uncommon Subsequence I| Easy |
