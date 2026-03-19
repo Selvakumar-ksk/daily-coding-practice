@@ -18,3 +18,4 @@
 | 16-03-2026 | LeetCode | Longest Uncommon Subsequence I| Easy |
 | 17-03-2026 | LeetCode | Unique Morse Code Words| Easy |
 | 18-03-2026 | LeetCode | Array Partition| Easy |
+| 19-03-2026 | LeetCode | Next Greater Element I| Easy |
