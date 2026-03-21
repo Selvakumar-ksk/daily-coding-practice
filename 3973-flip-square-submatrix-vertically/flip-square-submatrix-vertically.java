@@ -1,4 +1,4 @@
-// Added using AI
+
 class Solution {
     public int[][] reverseSubmatrix(int[][] grid, int x, int y, int k) {
         int sc = y, ec = y + k - 1, sr = x;
