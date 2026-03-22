@@ -21,4 +21,5 @@
 | 19-03-2026 | LeetCode | Next Greater Element I| Easy |
 | 20-03-2026 | LeetCode | Minimum Absolute Difference in Sliding Submatrix| Medium |
 | 21-03-2026 | LeetCode | Flip Square Submatrix Vertically| Easy |
+| 22-03-2026 | LeetCode | Determine Whether Matrix Can Be Obtained By Rotation| Easy |
 
