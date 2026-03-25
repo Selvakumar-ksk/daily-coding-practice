@@ -24,4 +24,5 @@
 | 22-03-2026 | LeetCode | Determine Whether Matrix Can Be Obtained By Rotation| Easy |
 | 23-03-2026 | LeetCode | Maximum Non Negative Product in a Matrix| Medium |
 | 24-03-2026 | LeetCode | Construct Product Matrix| Medium |
+| 25-03-2026 | LeetCode | Equal Sum Grid Partition I| Medium |
 
