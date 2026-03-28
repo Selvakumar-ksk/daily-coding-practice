@@ -27,3 +27,4 @@
 | 25-03-2026 | LeetCode | Equal Sum Grid Partition I| Medium |
 | 26-03-2026 | LeetCode | Longest Repeating Character Replacement| Medium |
 | 27-03-2026 | LeetCode |  Valid Sudoku| Medium |
+| 28-03-2026 | LeetCode | Unique Email Addresses| Easy |
