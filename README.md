@@ -29,3 +29,4 @@
 | 27-03-2026 | LeetCode |  Valid Sudoku| Medium |
 | 28-03-2026 | LeetCode | Unique Email Addresses| Easy |
 | 29-03-2026 | LeetCode | Check if Strings Can be Made Equal With Operations I| Easy |
+| 30-03-2026 | LeetCode |  Check if Strings Can be Made Equal With Operations II| Medium |
