@@ -31,3 +31,4 @@
 | 29-03-2026 | LeetCode | Check if Strings Can be Made Equal With Operations I| Easy |
 | 30-03-2026 | LeetCode |  Check if Strings Can be Made Equal With Operations II| Medium |
 | 31-03-2026 | LeetCode | Robot Return to Origin| Easy |
+| 01-04-2026 | LeetCode | Different Ways to Add Parentheses| Medium |
